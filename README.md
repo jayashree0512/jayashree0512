@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Jayashree 👋
 
-<!--
-**jayashree0512/jayashree0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student
+📊 Aspiring Data Analyst
+📍 Tamil Nadu, India
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Python, SQL, Excel & Power BI
+- 📈 Interested in Data Analytics & Business Intelligence
+- 💡 Passionate about solving problems using data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Git & GitHub
+
+## 📂 Projects
+- Titanic Survival Prediction
+- Fake News Detection
+- CodSoft Data Science Internship
+
+## 📫 Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/jayashree0512)
+- Email: (jayashreebharathi05@gmail.com)
